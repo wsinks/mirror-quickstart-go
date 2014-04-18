@@ -21,8 +21,8 @@ const (
 
 	// Created at http://code.google.com/apis/console, these identify
 	// our app for the OAuth protocol.
-	clientId     = "[[YOUR_CLIENT_ID]]"
-	clientSecret = "[[YOUR_CLIENT_SECRET]]"
+	clientId     = "1038533006103.apps.googleusercontent.com"
+	clientSecret = "KLlR09ZwV-ks5n1YKC969ThK"
 	scopes       = "https://www.googleapis.com/auth/glass.timeline " +
 		"https://www.googleapis.com/auth/glass.location " +
 		"https://www.googleapis.com/auth/userinfo.profile"
